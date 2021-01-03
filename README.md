@@ -2,6 +2,6 @@
 
 *When to use pull & fetch ?*
 
-_second-branch start editing_
+_updated by readme branch_
 
 ### All rights reserved @modernsoft.com
