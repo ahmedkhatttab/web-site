@@ -2,6 +2,6 @@
 
 ## Git & GitHub Tutorials
 
-_more data cis coming soooooon ...._
+_more data is coming soooooon ...._ modify line 5 by github
 
 ### All rights reserved @modernsoft.com
